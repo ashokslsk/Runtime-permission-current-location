@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c6710c793c361e1348b4979f8e43c5b7d9d7d6b1">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d001b674b5a9a9105416d8eece43ddb4bc7c8f34/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_1df75ab779572bf89804f7c08d7727e90578c39d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_32c59ddd4ccf2a6e583059e2d64c17e550cb7035/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a425c9aeed942782baf8962d1989979eb1950bfe">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8adf7089ced041a53becc5ee4b4f51bcaa1732ef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_29dcc2abcfff9da5b8f3a86c9737c17c1c374246/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_b9091dee8174cb6d4f8d8772b71cca783cf1de4a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_e2dae08533d0c411cee7dad6b31d11ec19ca37e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/Users/Ashok/Documents/NanoDegree/Pratices/SimpleGeocodeApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_61f3306c7fb926a77a5395aab670a720e67ee535/classes.dex" />
+    </item>
+
+</items>
